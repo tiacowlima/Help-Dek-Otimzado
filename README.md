@@ -54,7 +54,7 @@ Para resolver os gargalos identificados, foram desenvolvidas e implementadas as 
 *   **Documentação:** Criação de manuais e roteiros de atendimento em formatos acessíveis (Word/PDF).
 
 ---
-
+## 👤 Sobre mim Github [Tiago Lima](https://https:/github.com/tiacowlima).
 ## 👤 Autor Desenvolvido por [Tiago Lima](https://www.linkedin.com/in/tiagolima-analistati).
 
 ---
