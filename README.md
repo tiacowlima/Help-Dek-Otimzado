@@ -55,7 +55,6 @@ Para resolver os gargalos identificados, foram desenvolvidas e implementadas as 
 
 ---
 
-## 👤 Autor
-Desenvolvido por [Tiago Lima](https://www.linkedin.com/in/tiagolima-analistati).
+## 👤 Autor Desenvolvido por [Tiago Lima](https://www.linkedin.com/in/tiagolima-analistati).
 
-
+---
