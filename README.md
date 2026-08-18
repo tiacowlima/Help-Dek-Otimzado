@@ -1,6 +1,6 @@
 # Projeto: Help Desk Otimizado
 
-** Planilha  Atendimento de Chamados Help Desk N1 e N2 anexada para Dowload
+### Planilha Atendimento de Chamados Help Desk N1 e N2 anexada para Dowload
 
 ## 📌 Contexto Inicial (Problemas Identificados)
 
@@ -14,7 +14,7 @@
 
 Para resolver os gargalos identificados, foram desenvolvidas e implementadas as seguintes ferramentas e processos:
 
-### 1. Planilha de Atendimento Otimizada
+### 1. Planilha Atendimento de Chamados Help Desk N1 e N2
 *   **Foco:** Priorização de chamados.
 *   **Objetivo:** Organizar a fila de atendimento com base na criticidade e urgência, garantindo que os problemas mais impactantes sejam resolvidos primeiro.
 
