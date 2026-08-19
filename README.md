@@ -51,9 +51,9 @@ Para resolver os gargalos identificados, foram desenvolvidas e implementadas as 
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
-*   **Planilhas Eletrônicas:** (Excel / Google Sheets) para gestão da fila e priorização.
+*   **Planilhas Eletrônicas:** (Excel / Google Sheets) para gestão da fila e priorização, contendo:
 *   **Banco de Dados:** (Estrutura em pastas/arquivos ou sistema simples) para consulta de dificuldades.
-*   **Documentação:** Criação de manuais e roteiros de atendimento em formatos acessíveis (Word/PDF).
+*   **Documentação:** Criação de manuais e roteiros de atendimento em formatos acessíveis.
 
 ---
 ## 💼 Sobre mim: Github [Tiago Lima](https://github.com/tiacowlima).
